@@ -4,8 +4,13 @@
     "start_url": "/",
     "icons": [
         {
+            "src": "logo180x180.png",
+            "sizes": "180x180"
+        },
+        {
             "src": "logo512x512.png",
-            "sizes": "512x512"
+            "sizes": "512x512",
+            "purpose": "maskable"
         }
     ],
     "background_color": "#ffffff",
